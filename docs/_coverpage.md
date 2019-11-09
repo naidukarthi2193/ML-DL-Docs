@@ -8,5 +8,5 @@
 - Code Examples	
 - Links to Resources and Official Docs
 
-[GitHub](https://github.com/naidukarthi2193)
-[Get Started](#README.md)
+[GitHub](https://github.com/naidukarthi2193/ML-DL-Docs)
+[Get Started](README.md)

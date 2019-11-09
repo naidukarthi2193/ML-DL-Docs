@@ -1,6 +1,54 @@
-- Getting started
 
-  - [Intro 1](intro1.md)
-  - [Intro 2](intro2.md)
-  - [Intro 3](intro3.md)
-  - [Intro 4](intro4.md)
+
+ - Getting Started 
+ - Machine Learning and Deep Learning
+	 - History
+	 - Definition
+	 - Applications
+ - Machine Learning
+	- Supervised Learning
+		- Regression 
+			- Linear 
+			- Polynomial 
+			- Lasso 
+		- Classification
+			- SVM
+			- K-NN
+			- Naive Bayes
+			- Logistic Regression
+			- Decision Trees
+	- Unsupervised Learning
+		- Clustering
+			- K-Means
+			- DBSCAN
+			- Agglomerative
+			- Mean Shift
+			- Fuzzy C-Means
+		- Association Rule Learning
+			- FP Growth
+			- Euclat
+			- Apriori
+		- Dimensionality Reduction
+			- t-SNE
+			- PCA
+			- LSD
+			- SVD
+			- LDA
+	- Ensemble Learning
+		- Stacking
+		- Boosting
+			- XGBoost
+			- LightGBM
+			- CatBoost
+			- AdaBoost
+		- Bagging
+			- Random Forest
+	
+	 - Reinforcement Learning
+		 - Q-Learning
+		 - SARSA
+		 - DQN
+		 - A3C
+		 - Genetic Algorithm
+
+		
