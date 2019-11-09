@@ -1,14 +1,8 @@
-
-
- - Getting Started 
- - Machine Learning and Deep Learning
-	 - History
-	 - Definition
-	 - Applications
- - Machine Learning
+ - [Welcome](README.md)
+ - [Machine Learning](/Machine_Learning/machine_learning.md)
 	- Supervised Learning
 		- Regression 
-			- Linear 
+			- [Linear](/Machine_Learning/Supervised_Learning/Regression/Linear.md) 
 			- Polynomial 
 			- Lasso 
 		- Classification

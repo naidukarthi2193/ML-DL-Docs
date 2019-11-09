@@ -1,6 +1,6 @@
 ![logo](images/neural.png)
 
-# Machine Learning and Deep Learning
+# [Machine Learning and Deep Learning](README.md)
 
 > A comprehensive collection of ML and DL Concepts
 
