@@ -17,6 +17,6 @@ This Repo is a collection of Prominent Machine Learning and Deep Learning Concep
 ![history](images/ml_history.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-In today's world there are different forms of data Tabular,Images,Sounds, Videos,Binary Files etc. In today's world <strong>2.5 quintillion bytes</strong> of data is created every day . The pace at which data is created has already surpassed the human and traditional computing programs to process data this gave rise to Developement of Machine Learning and Deep Learning Techniques.
+In today's world there are different forms of data Tabular,Images,Sounds, Videos,Binary Files etc. Around <strong>2.5 quintillion bytes</strong> of data is created every day . The pace at which data is created has already surpassed the human and traditional computing programs to process data this gave rise to Developement of Machine Learning and Deep Learning Techniques.
 
 
