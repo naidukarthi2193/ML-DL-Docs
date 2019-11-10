@@ -13,7 +13,7 @@ Depending on what you are trying to accomplish, there are many different ways to
 ![ml_map](../images/ml_map.jpg)
 
 ## Types of Machine Learning 
-- #### [Supervised Learning](Machine_Learning/Supervised_Learning/supervised_learning.md)
-- #### [Unsupervised Learning](Machine_Learning/Unsupervised_Learning/unsupervised_learning.md)
-- #### [Ensemble Learning](Machine_Learning/Ensemble_Learning/ensemble_learning.md)
-- #### [Reinforment Learning](Machine_Learning/Reinforcement_Learning/reinforcement_learning.md)
+- ### [Supervised Learning](Machine_Learning/Supervised_Learning/supervised_learning.md)
+- ### [Unsupervised Learning](Machine_Learning/Unsupervised_Learning/unsupervised_learning.md)
+- ### [Ensemble Learning](Machine_Learning/Ensemble_Learning/ensemble_learning.md)
+- ### [Reinforment Learning](Machine_Learning/Reinforcement_Learning/reinforcement_learning.md)
