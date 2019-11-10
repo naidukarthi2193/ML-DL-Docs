@@ -1,48 +1,8 @@
- - [Welcome](README.md)
- - [Machine Learning](/Machine_Learning/machine_learning.md)
-	- Supervised Learning
-		- Regression 
-			- [Linear](/Machine_Learning/Supervised_Learning/Regression/Linear.md) 
-			- Polynomial 
-			- Lasso 
-		- Classification
-			- SVM
-			- K-NN
-			- Naive Bayes
-			- Logistic Regression
-			- Decision Trees
-	- Unsupervised Learning
-		- Clustering
-			- K-Means
-			- DBSCAN
-			- Agglomerative
-			- Mean Shift
-			- Fuzzy C-Means
-		- Association Rule Learning
-			- FP Growth
-			- Euclat
-			- Apriori
-		- Dimensionality Reduction
-			- t-SNE
-			- PCA
-			- LSD
-			- SVD
-			- LDA
-	- Ensemble Learning
-		- Stacking
-		- Boosting
-			- XGBoost
-			- LightGBM
-			- CatBoost
-			- AdaBoost
-		- Bagging
-			- Random Forest
-	
-	 - Reinforcement Learning
-		 - Q-Learning
-		 - SARSA
-		 - DQN
-		 - A3C
-		 - Genetic Algorithm
+- [Welcome](README.md)
+- [Machine Learning](Machine_Learning/machine_learning.md)
+ - [Supervised Learning](Machine_Learning/Supervised_Learning/supervised_learning.md)
+ - [Unsupervised Learning](Machine_Learning/Unsupervised_Learning/unsupervised_learning.md)
+ - [Ensemble Learning](Machine_Learning/Ensemble_Learning/ensemble_learning.md)
+ - [Reinforcement Learning](Machine_Learning/Reinforcement_Learning/reinforcement_learning.md)
 
-		
+ 

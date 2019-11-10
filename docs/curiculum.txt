@@ -1,0 +1,51 @@
+- Timepass
+ -
+ -
+ -
+ -
+	- Supervised Learning
+		- Regression 
+			- [Linear](/Machine_Learning/Supervised_Learning/Regression/Linear.md) 
+			- Polynomial 
+			- Lasso 
+		- Classification
+			- SVM
+			- K-NN
+			- Naive Bayes
+			- Logistic Regression
+			- Decision Trees
+	- Unsupervised Learning
+		- Clustering
+			- K-Means
+			- DBSCAN
+			- Agglomerative
+			- Mean Shift
+			- Fuzzy C-Means
+		- Association Rule Learning
+			- FP Growth
+			- Euclat
+			- Apriori
+		- Dimensionality Reduction
+			- t-SNE
+			- PCA
+			- LSD
+			- SVD
+			- LDA
+	- Ensemble Learning
+		- Stacking
+		- Boosting
+			- XGBoost
+			- LightGBM
+			- CatBoost
+			- AdaBoost
+		- Bagging
+			- Random Forest
+	
+	 - Reinforcement Learning
+		 - Q-Learning
+		 - SARSA
+		 - DQN
+		 - A3C
+		 - Genetic Algorithm
+
+		
