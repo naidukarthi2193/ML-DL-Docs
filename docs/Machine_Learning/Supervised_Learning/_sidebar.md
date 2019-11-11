@@ -1,5 +1,6 @@
-- Welcome
-- Machine Learning
-  - Supervised Learning
-    - Regression
-    - Classification
+- Supervised Learning
+  - Regression
+    - Linear
+    - Polynomial
+    - Lasso
+  - Classification

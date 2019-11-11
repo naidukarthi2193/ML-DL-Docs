@@ -1,13 +1,14 @@
-* Getting started
-
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
-
-* Configuration
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
+* [Home](README)
+  * [Prerequisite](README?id=prerequisite)
+  * [History and Need](README?id=history-and-need-of-machine-learning)
+* [Machine Learning](Machine_Learning/machine_learning)
+  * [Supervised Learning](Machine_Learning/Supervised_Learning/supervised_learning)
+  * [Unsupervised Learning](Machine_Learning/Unsupervised_Learning/unsupervised_learning)
+  * [Ensemble Learning](Machine_Learning/Ensemble_Learning/ensemble_learning)
+  * [Reinforcement Learning](Machine_Learning/Reinforcement_Learning/reinforcement_learning)
+* Deep Learning
+  * Perceptrons
+  * ANNs
+  * CNNs
+  * RNNs
+  * LSTMs
