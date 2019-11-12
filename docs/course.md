@@ -1,8 +1,8 @@
 We Will Try To Cover The Following Topics In the Course
 
-### Model and Cost Fucntions
-### Gradient Descent
-### Machine Learning Topics
+- ### [Model and Cost Fucntions](Basics/costfunction.md)
+- ### [Gradient Descent](Basics/gradientdescent.md)
+- ### [Machine Learning Topics](Machine_Learning/machine_learning.md)
 
 | Supervised Learning | Unsupervised Learning |Ensemble Learning | Reinforcement Learning | 
 |--|--|--|--|
@@ -13,5 +13,5 @@ We Will Try To Cover The Following Topics In the Course
 ||||<b>Genetic Algorithm</b>
 
 
-### Deep Learning Topics
+- ### Deep Learning 
  > to Be added Soon ...
