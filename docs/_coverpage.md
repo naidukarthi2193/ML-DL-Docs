@@ -1,4 +1,4 @@
-![logo](images/neural.png)
+![logo](images/neural.png ':size=auto')
 
 # [Machine Learning and Deep Learning](README.md)
 
