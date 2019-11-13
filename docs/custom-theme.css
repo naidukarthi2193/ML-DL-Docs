@@ -1,0 +1,13 @@
+:root {
+	 --table-head-background             : var(--mono-tint3);
+    --table-head-border-color           : var(--table-cell-border-color);
+    --table-head-border-width           : 2 ;
+    --table-head-font-weight            : var(--strong-font-weight);
+    --table-row-even-background         : ;
+    --table-row-odd-background          : ;
+    --table-body-border-color           : var(--table-cell-border-color);
+    --table-body-border-width           : 1;
+    --table-cell-border-color           : var(--table-cell-border-color);
+    --table-cell-border-width           : 1;
+
+}

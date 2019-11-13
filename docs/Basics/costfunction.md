@@ -1,8 +1,8 @@
-# Model and Cost Function 
+﻿# Model and Cost Function 
 
 So from the intro you might be under be understanting why traditional programming lacks capability to process data and it is overcomed by machine learning. <br>
 
-###### <i>But How does Machine Learning works better than Traditional Programs ? </i>
+#### <i>But How does Machine Learning works better than Traditional Programs ? </i>
 
 ### Traditional Programing
 
@@ -35,7 +35,7 @@ Machine learning is supposed to overcome this issue. The machine learns how the 
  The model is <strong>trained</strong> by feeding it data as Input and Output.<br>
 The Greater the Data, Greater will be the Model be able to Adapt to the Correlations between the data
  
- ###### <i>But Howcome we will know if the Model has Adapted to our Inputs and Outputs well ?</i>
+ #### <i>But Howcome we will know if the Model has Adapted to our Inputs and Outputs well ?</i>
 
  ### Cost Function 
   In ML, the focus is on learning from data. This is perhaps better illustrated using a simple analogy. As children we typically learn what is “right” or “good” behaviour by being told NOT to do things or being punished for having done something we shouldn’t. <br>
