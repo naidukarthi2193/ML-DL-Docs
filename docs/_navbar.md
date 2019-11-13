@@ -2,6 +2,8 @@
   * [Machine learning and Deep Learning](README.md)
   * [Prerequisite](README?id=prerequisite)
   * [History and Need](README?id=history-and-need-of-machine-learning)
+  * [Model and Cost Function](Basics/costfunction.md)
+  * [Gradient Descent](/Basics/gradientdescent.md)
 * [Machine Learning](Machine_Learning/machine_learning)
   * [Supervised Learning](Machine_Learning/Supervised_Learning/supervised_learning)
   * [Unsupervised Learning](Machine_Learning/Unsupervised_Learning/unsupervised_learning)

@@ -1,4 +1,4 @@
-We Will Try To Cover The Following Topics In the Course
+Topics to be included in this Repo
 
 - ### [Model and Cost Fucntions](Basics/costfunction.md)
 - ### [Gradient Descent](Basics/gradientdescent.md)
