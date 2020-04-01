@@ -56,9 +56,27 @@ X_train, X_test, y_train, y_test = train_test_split(
 #### ** Ridge **
 
 ```python
+# initialize
+ridge_reg = Ridge(alpha=0)
+ridge_reg.fit(X_train, y_train)
+ridge_df = pd.DataFrame({'variable': house_price.feature_names, 'estimate': ridge_reg.coef_})
+ridge_train_pred = []
+ridge_test_pred = []
 
-asd
-asdas
+# iterate lambdas
+for alpha in np.arange(0, 200, 1):
+    # training
+    ridge_reg = Ridge(alpha=alpha)
+    ridge_reg.fit(X_train, y_train)
+    var_name = 'estimate' + str(alpha)
+    ridge_df[var_name] = ridge_reg.coef_
+    # prediction
+    ridge_train_pred.append(ridge_reg.predict(X_train))
+    ridge_test_pred.append(ridge_reg.predict(X_test))
+
+# organize dataframe
+ridge_df = ridge_df.set_index('variable').T.rename_axis('estimate')
+                .rename_axis(None, 1).reset_index()
 ```
 
 #### ** Lasso **
