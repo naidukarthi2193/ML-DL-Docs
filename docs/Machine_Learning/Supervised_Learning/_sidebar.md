@@ -1,6 +1,2 @@
-- Supervised Learning
-  - Regression
-    - Linear
-    - Polynomial
-    - Lasso
-  - Classification
+- [Supervised Learning](Machine_Learning/Supervised_Learning/supervised_learning.md)
+  
