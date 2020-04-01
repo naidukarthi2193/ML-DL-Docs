@@ -75,8 +75,7 @@ for alpha in np.arange(0, 200, 1):
     ridge_test_pred.append(ridge_reg.predict(X_test))
 
 # organize dataframe
-ridge_df = ridge_df.set_index('variable').T.rename_axis('estimate')
-                .rename_axis(None, 1).reset_index()
+ridge_df = ridge_df.set_index('variable').T.rename_axis('estimate').rename_axis(1).reset_index()
 ```
 
 #### ** Lasso **
@@ -87,3 +86,10 @@ dssdf
 ```
 
 <!-- tabs:end -->
+
+![](../../../images/ridge_graph.png)
+
+
+- Ridge Example
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/open?id=1BrAP18eUkhpnIVijFNWP976ZIGSAowwR)
