@@ -23,6 +23,19 @@ This is equivalent to saying minimizing the cost function
 
 So ridge regression puts constraint on the coefficients (w). The penalty term (lambda) regularizes the coefficients such that if the coefficients take large values the optimization function is penalized. So, ridge regression shrinks the coefficients and it helps to reduce the model complexity and multi-collinearity. 
 
+- ## Lasso Regression
+  
+
+
+
+
+So Comparing Ridge And Lasso Regression we get
+
+Ridge Regression | Lasso Regression | 
+---------|----------|---------
+ Performs L2 regularization, i.e. adds penalty equivalent to <b>square of the magnitude</b> of coefficients | Performs L1 regularization, i.e. adds penalty equivalent to<b> absolute value of the magnitude</b> of coefficients | 
+  | Minimization objective = LS Obj + α * (sum of square of coefficients) |Minimization objective = LS Obj + α * (sum of absolute value of coefficients)  |
+
 
 
 ```python
